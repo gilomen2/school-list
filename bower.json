@@ -1,0 +1,21 @@
+{
+  "name": "school-list",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Beth Gilomen <gilomen2@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gilomen2/school-list",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
